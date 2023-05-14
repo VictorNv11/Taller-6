@@ -1,2 +1,2 @@
 # Taller-6
-conexion a base de datos con insert y actualizaciones desde el codigo.
+conexion a base de datos con insert , listados, actualizaciones, eliminaciones desde el codigo.
